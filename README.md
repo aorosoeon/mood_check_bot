@@ -1,5 +1,5 @@
 # mood_check_bot
-Chatbot for Telegram messenger, which checks your mood a couple of times per day (by sending a message to you) and in case of difficult emotions gives you a list of coping strategies to replace negative patterns. Also, it is available whenever needed, so you can record your mood anytime and get help from it.
+Chatbot for Telegram, which checks your mood a couple of times per day (by sending a message to you) and in case of difficult emotions gives you a list of coping strategies to replace negative patterns. Also, it is available whenever needed, so you can record your mood anytime and get help from it.
 
 I used:
 1. AsyncTelebot and a couple of other classes from pyTelegramBotAPI package for connecting to Telegram API
